@@ -13,6 +13,11 @@
     "children": [
       "breadcrumb.search",
       "search-title.v2",
+      "total-products.v2",
+      "order-by.v2",
+      "search-content",
+      "filter-navigator.v3",
+      "search-fetch-more",
       "flex-layout.row#top",
       "search-fetch-previous",
       "flex-layout.row#results",
