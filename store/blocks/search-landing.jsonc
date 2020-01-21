@@ -1,0 +1,25 @@
+{
+    "store.custom#landing": { 
+      "blocks": [ 
+        "image#landingbanner", 
+        "search-result-layout.customQuery"
+      ]
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "querySchema": {
+                "orderByField": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8,
+                "queryField": "Blue Top Retro Camera",
+                "mapField": "ft"
+            }
+        }
+    },
+    "image#landingbanner": {
+        "props": {
+            "src": "http://www.techlink-eg.com/wp-content/uploads/2019/02/Tech-Link-Home-.jpg",
+            "minWidth": "100%"
+        }
+    }
+  }
