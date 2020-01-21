@@ -53,11 +53,10 @@
 
     "header-row#main-mobile": {
         "children": [
-          "logo",
-          "header-spacer",
-          "minicart",
-          "login",
-          "drawer"
+            "logo",
+            "header-spacer",
+            "minicart",
+            "login"
         ],
       
         "props": {
