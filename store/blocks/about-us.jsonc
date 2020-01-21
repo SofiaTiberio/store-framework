@@ -92,7 +92,7 @@
     "iframe#home2": {
       "props": {
         "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-        "width": 700,
+        "width": 800,
         "height": 1000
       }
     }
